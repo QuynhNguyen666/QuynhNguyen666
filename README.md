@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Alice Metylda
+### A passionate Data Analyst from Vietnam
 
 <!--
 **QuynhNguyen666/QuynhNguyen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

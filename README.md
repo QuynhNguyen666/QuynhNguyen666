@@ -8,6 +8,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power%20BI%20-%20Final%20Logos/Power%20BI%20Logo%20-%20Marketing/Power-BI-Logo-Vertical.svg" alt="PowerBI" width="40" height="40"/>
 </p>
 <!--
 **QuynhNguyen666/QuynhNguyen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

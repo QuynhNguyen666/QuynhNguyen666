@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Alice Metylda
 ### A passionate Data Analyst from Vietnam
-
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuynhNguyen666&count_bg=%232575FC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)
 <!--
 **QuynhNguyen666/QuynhNguyen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

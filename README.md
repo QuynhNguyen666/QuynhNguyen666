@@ -34,11 +34,11 @@
 
 <!--[![Alice's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=QuynhNguyen666&custom_title=Pooja's%20github%20activity%20graph&hide_border=true)](https://github.com/QuynhNguyen666/github-readme-activity-graph)!-->
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuynhNguyen666&show_icons=true&locale=en" alt="QuynhNguyen666" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuynhNguyen666&" alt="QuynhNguyen666" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuynhNguyen666&show_icons=true&locale=en" alt="QuynhNguyen666" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuynhNguyen666&" alt="QuynhNguyen666" /></p>-->
 
 
-<!--[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuynhNguyen666&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--!>
+[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuynhNguyen666&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **QuynhNguyen666/QuynhNguyen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

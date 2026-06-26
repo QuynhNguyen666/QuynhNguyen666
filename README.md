@@ -29,7 +29,7 @@
        
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuynhNguyen666&show_icons=true&locale=en&layout=compact" alt="chiki1601" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuynhNguyen666&show_icons=true&locale=en&layout=compact" alt="QuynhNguyen666" /></p>
  <br>
 
 <!--[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuynhNguyen666&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--!>

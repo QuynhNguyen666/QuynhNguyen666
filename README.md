@@ -2,14 +2,14 @@
 ### A passionate Data Analyst from Vietnam
 <!--![Lượt xem](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuynhNguyen666&count_bg=%232575FC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QuynhNguyen666&label=Profile%20views&color=0e75b6&style=flat" alt="QuynhNguyen666" /> </p>
-
+https://drive.google.com/file/d/1EnnecDL2NB2cj9CDGrEM-5UPjSP23m5c/view?usp=sharing
 <h3>Languages and Tools:</h3>
 <p align="left">  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
   <a href="https://www.hackerrank.com/certificates/67020bfb7577" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 

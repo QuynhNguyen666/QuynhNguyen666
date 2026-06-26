@@ -19,10 +19,11 @@
   <a href="https://drive.google.com/file/d/1EnnecDL2NB2cj9CDGrEM-5UPjSP23m5c/view" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"  height="40"/>
   </a>
-    <a href="https://www.hackerrank.com/certificates/iframe/67020bfb7577" target="_blank" rel="noreferrer">
-   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"  height="40"/> 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"  height="40"/>
+   </a> 
   <img src="https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"  height="40"/>
+    </a>
+   <a href="https://drive.google.com/file/d/1h0ITwc8qEG-zk3Ki2TEHDtMyQGtaGwGl/view?usp=sharing" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" width="40" height="40"/>
        
 </p>

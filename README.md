@@ -16,6 +16,7 @@
   </a>
   <a href="https://www.hackerrank.com/certificates/67020bfb7577" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a>
   <a href="https://drive.google.com/file/d/1h0ITwc8qEG-zk3Ki2TEHDtMyQGtaGwGl/view?usp=sharing" target="_blank" rel="noreferrer">
      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"  height="40"/>
   </a>

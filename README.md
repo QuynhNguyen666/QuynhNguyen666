@@ -38,7 +38,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuynhNguyen666&" alt="QuynhNguyen666" /></p>-->
 
 
-[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuynhNguyen666&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **QuynhNguyen666/QuynhNguyen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

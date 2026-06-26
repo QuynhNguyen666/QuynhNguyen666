@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Alice Metylda Nguyen
 ### A passionate Data Analyst from Vietnam
 <!--![Lượt xem](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQuynhNguyen666&count_bg=%232575FC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false)!-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiki1601&label=Profile%20views&color=0e75b6&style=flat" alt="QuynhNguyen666" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=QuynhNguyen666&label=Profile%20views&color=0e75b6&style=flat" alt="QuynhNguyen666" /> </p>
 
 <h3>Languages and Tools:</h3>
 <p align="left">

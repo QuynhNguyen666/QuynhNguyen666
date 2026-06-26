@@ -29,6 +29,9 @@
        
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuynhNguyen666&show_icons=true&locale=en&layout=compact" alt="chiki1601" /></p>
+ <br>
+
 <!--[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QuynhNguyen666&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--!>
 <!--
 **QuynhNguyen666/QuynhNguyen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
